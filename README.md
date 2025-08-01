@@ -1,35 +1,24 @@
-# 🌦️ Weather Application
 
-A simple and responsive **Weather App** built using **HTML**, **CSS**, and **JavaScript**. It allows users to search for any city and view the current weather data in real time using the **SheCodes Weather API** (or OpenWeatherMap if you used that).
+# 🌤️ Prodigy Weather App
 
----
+A responsive weather web application built during my internship at **Prodigy InfoTech**. The app allows users to check real-time weather information for any city in the world using the OpenWeatherMap API.
 
-## 🔍 Overview
+## 🚀 Project Overview
 
-This app lets users:
-- Search for any city in the world
-- View current temperature, weather description, humidity
-- See weather icons based on real-time data
-- Enjoy a clean and responsive interface on both mobile and desktop
+This project was part of my internship tasks at **Prodigy InfoTech** under the Web Development track. The goal was to build a functional, visually appealing weather application using HTML, CSS, and JavaScript. The app fetches live weather data and displays it in an easy-to-understand format.
 
----
+## 🛠️ Features
 
-## ✨ Features
+- 🌍 Search weather by city name
+- 📍 Current temperature, weather conditions, humidity, wind speed
+- 🖼️ Weather icons matching the condition
+- 📱 Fully responsive design
+- 🔁 Real-time data using OpenWeatherMap API
 
-- ✅ Real-time weather updates
-- ✅ User-friendly city search
-- ✅ Weather icons based on conditions
-- ✅ Responsive design using Flexbox and media queries
-- ✅ JavaScript-based API call and DOM manipulation
-
----
-
-## 🛠️ Technologies Used
+## 🧰 Tech Stack
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
-- [SheCodes Weather API](https://www.shecodes.io/weather)
-- Git & GitHub
+- JavaScript (Vanilla JS)
+- OpenWeatherMap API
 
--
